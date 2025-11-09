@@ -19,3 +19,5 @@ if __name__ == "__main__":
     print("Original Array:", arr)
     print("Duplicates using set method:", find_duplicates_using_set(arr))
     print("Duplicates using count method:", find_duplicates_using_count(arr))
+    print("lubna")
+    print("obaid")
